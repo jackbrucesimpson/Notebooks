@@ -1,19 +1,24 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+# Python
+.ipynb_checkpoints/
+*.pyc
+__pycache__
 
-# Other files and folders
-.settings/
+# R
+.RData/
+.Rhistory
+
+# Directories
+# data/
+nci/
+build/
 
 # Executables
-*.swf
-*.air
-*.ipa
-*.apk
+*.exe
+*.out
+*.app
+beeunique
+*.dSYM
+*.so
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Mac
+.DS_Store
