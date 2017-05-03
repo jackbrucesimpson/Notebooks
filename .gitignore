@@ -16,7 +16,6 @@ build/
 *.exe
 *.out
 *.app
-beeunique
 *.dSYM
 *.so
 
