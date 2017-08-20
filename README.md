@@ -1,2 +1,5 @@
-# phd-notebooks
-Notes and analysis from my research
+# Notebooks
+
+Notes and analysis from my:
+- PhD research
+- Self-learning
