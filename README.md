@@ -1,5 +1,6 @@
 # Notebooks
 
-Notes and analysis from my:
-- PhD research
+Notes and analysis covering:
+- PhD
 - Self-learning
+- Setup notes
