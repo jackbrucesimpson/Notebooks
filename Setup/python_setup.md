@@ -17,6 +17,7 @@ pip3 install  jupyter jupyterlab
 
 python2 -m pip install ipykernel
 python2 -m ipykernel install --user
+```
 
 ## Version information
 
