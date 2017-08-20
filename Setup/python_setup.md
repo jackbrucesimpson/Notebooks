@@ -7,7 +7,7 @@
 ## Install scientific libraries
 
 ```
-pip3 install numpy matplotlib scipy sklearn pandas keras h5py
+pip3 install numpy matplotlib scipy sklearn pandas keras h5py cython
 pip3 install tensorflow
 ```
 ## Install Jupyter notebook
