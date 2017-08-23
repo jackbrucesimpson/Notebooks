@@ -22,3 +22,7 @@ python2 -m ipykernel install --user
 ## Version information
 
 `pip3 install version_information`
+
+## Linting
+
+`pip3 install flake8 flake8-docstrings`

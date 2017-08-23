@@ -9,7 +9,7 @@ sudo apt-get install python3 python3-dev python3-pip
 
 ## OpenCV
 
-`sudo apt-get install libopencv-dev python-opencv`
+`sudo apt-get install libopencv-dev python-opencv ffmpeg`
 
 ## Additional packages
 
